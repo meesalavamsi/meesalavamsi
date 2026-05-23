@@ -55,6 +55,73 @@ I'm a **ServiceNow CSA & CAD certified Developer** passionate about building sca
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=1000&center=true&vCenter=true&width=600&height=40&lines=Featured+Projects+%F0%9F%9A%80;Enterprise+Solutions+Built+with+ServiceNow" alt="Projects SVG" />
+</p>
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3 align="center">🎓 University IT Issue Tracking</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/ServiceNow-CSA+%26+CAD-81B441?style=for-the-badge&logo=servicenow" alt="ServiceNow" />
+        <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/REST_API-Ready-FF6B6B?style=for-the-badge" alt="REST API" />
+      </p>
+      <p align="center">Full-stack ITSM solution for campus IT helpdesk. Students raise issues, IT team manages workflows with ServiceNow automation and custom business rules.</p>
+      <p align="center">
+        <a href="https://github.com/meesalavamsi/University_IT_Issue_Tracking_System_With_Service_Now">
+          <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github" alt="View Project" />
+        </a>
+      </p>
+    </td>
+    <td valign="top">
+      <h3 align="center">🔐 Cyber Security Smart IT</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Cyber_Security-Awareness-FF4757?style=for-the-badge&logo=shield" alt="Cyber Security" />
+        <img src="https://img.shields.io/badge/Interactive_Quiz-App-2ED573?style=for-the-badge" alt="Quiz" />
+        <img src="https://img.shields.io/badge/Leaderboard-System-FFA502?style=for-the-badge" alt="Leaderboard" />
+      </p>
+      <p align="center">Cyber-themed interactive web app for security awareness. Features quiz system, time-based challenges, leaderboard, and engaging cybersecurity education.</p>
+      <p align="center">
+        <a href="https://github.com/meesalavamsi/Cyber-Security-Smart-IT-Support">
+          <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github" alt="View Project" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3 align="center"> Enterprise Workflow Hub</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Node.js-Express-339933?style=for-the-badge&logo=node.js" alt="Node.js" />
+        <img src="https://img.shields.io/badge/ServiceNow-Integration-81B441?style=for-the-badge&logo=servicenow" alt="ServiceNow" />
+        <img src="https://img.shields.io/badge/JWT-Auth-000000?style=for-the-badge" alt="JWT" />
+        <img src="https://img.shields.io/badge/REST_API-Full-FF6B6B?style=for-the-badge" alt="REST API" />
+        <img src="https://img.shields.io/badge/Docker-Ready-2496ED?style=for-the-badge&logo=docker" alt="Docker" />
+        <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-2088FF?style=for-the-badge&logo=github" alt="CI/CD" />
+      </p>
+      <p align="center">Complete enterprise employee onboarding & workflow management system. Real-time dashboards, RBAC, ServiceNow PDI integration, Flow Designer automation, and comprehensive API suite with 58+ tests.</p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Active_Success-2ED573?style=for-the-badge" alt="Active" />
+        <img src="https://img.shields.io/badge/Tests-58_Passed-2ED573?style=for-the-badge" alt="Tests" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/meesalavamsi/Enterprise-Workflow-Hub">
+          <img src="https://img.shields.io/badge/View_Project-0078D4?style=for-the-badge&logo=github" alt="View Project" />
+        </a>
+        <a href="https://github.com/meesalavamsi/Enterprise-Workflow-Hub/actions">
+          <img src="https://img.shields.io/badge/CI_Status-Passing-2ED573?style=for-the-badge&logo=github" alt="CI Passing" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
