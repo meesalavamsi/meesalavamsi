@@ -125,8 +125,8 @@ I'm a **ServiceNow CSA & CAD certified Developer** passionate about building sca
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meesalavamsi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=meesalavamsi&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=meesalavamsi&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=meesalavamsi&theme=tokyonight&hide_border=false" alt="Streak Stats" />
 </p>
 
 <p align="center">
