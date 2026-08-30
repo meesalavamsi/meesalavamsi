@@ -1,36 +1,56 @@
-# Hi, I'm Vamsi Meesala 👋
+## Hi, I'm Vamsi Meesala 👋
 
-**Full Stack Developer** · **ServiceNow Developer** · **ServiceNow CSA & CAD Certified**
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;ServiceNow+Developer;ServiceNow+CSA+%26+CAD+Certified;Building+Enterprise+Workflow+Solutions)
 
-I’m a Full Stack Developer and ServiceNow Developer focused on building scalable enterprise workflow solutions. My ServiceNow journey has given me hands-on experience in app creation, workflow automation, custom scripting, and PDI-based integrations. I enjoy solving business problems with clean, maintainable code across the full stack.
+![Profile Views](https://komarev.com/ghpvc/?username=meesalavamsi&label=Profile%20Views&color=0e75b6&style=flat)
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack-Developer-0e75b6?style=for-the-badge)
+![ServiceNow Developer](https://img.shields.io/badge/ServiceNow-Developer-14b8a6?style=for-the-badge)
+![CSA & CAD Certified](https://img.shields.io/badge/ServiceNow-CSA%20%26%20CAD%20Certified-1f6feb?style=for-the-badge)
 
-Currently working on Enterprise Workflow Hubs & Onboarding Solutions  
-🌱 Actively learning AWS & DevOps to broaden my cloud-native capabilities  
-💡 Passionate about automating business processes and improving user experience  
-🎯 Focused on delivering clean, maintainable code with best practices
+---
+
+## 👨‍💻 About Me
+
+I’m a Full Stack Developer and ServiceNow Developer focused on building scalable enterprise workflow solutions.
+I enjoy turning complex business requirements into clean, maintainable systems with strong automation, practical UX, and real-world integrations.
+
+- 🔧 Building enterprise workflow and onboarding solutions
+- 🌱 Learning AWS and DevOps to deepen my cloud-native skills
+- 💡 Passionate about automation, performance, and clean architecture
+- 🎯 Focused on delivering maintainable code with best practices
 
 ## 🛠️ Tech Stack
 
-Frontend: HTML, CSS, JavaScript, React, Tailwind
+![Tech Stack](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,git,github,vscode,aws,docker)
 
-Backend: Node.js, Express, TypeScript, REST APIs
+### Frontend
+React · JavaScript · TypeScript · HTML · CSS · Tailwind
 
-ServiceNow: PDI, Table API, Flow Designer, Business Rules, Script Includes
+### Backend
+Node.js · Express · REST APIs · TypeScript
 
-Cloud & DevOps: AWS, GitHub, CI/CD, Linux
+### ServiceNow
+PDI · Table API · Flow Designer · Business Rules · Script Includes
 
-Tools: VS Code, Postman, Git, Figma
+### Cloud & DevOps
+AWS · GitHub · CI/CD · Linux
+
+### Tools
+VS Code · Postman · Git · Figma
 
 ## 🚀 Featured Projects
 
-University IT Issue Tracking — Full-stack ITSM solution for campus IT helpdesk.
+- **CareSync** - Clinical + ServiceNow operations portal with patient workflow, AI handoffs, medication safety, and live incident handling.
+- **Enterprise Workflow Hub** - Employee onboarding and workflow management with ServiceNow PDI integration, Flow Designer automation, and RBAC.
+- **University IT Issue Tracking** - Full-stack ITSM solution for campus IT helpdesk with ServiceNow automation and custom business rules.
 
-Cyber Security Smart IT — Cyber-themed interactive web app for security awareness.
+## 📊 GitHub Stats
 
-Enterprise Workflow Hub — Enterprise employee onboarding and workflow management with ServiceNow PDI integration.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meesalavamsi&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=meesalavamsi&theme=tokyonight&hide_border=true)
 
-## 🤝 Let's Connect
+## 🤝 Let’s Connect
 
-Always open to connecting with fellow developers and exploring new opportunities! 🚀
+[LinkedIn](https://www.linkedin.com/in/vamsi-meesala-2b6806290/) · [GitHub](https://github.com/meesalavamsi)
 
 Made with ❤️ by Vamsi Meesala
