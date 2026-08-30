@@ -21,7 +21,7 @@
   </p>
 
   <p align="center">
-    <code>🟢 <b>SYSTEM STATUS:</b> Architecting Next-Gen Enterprise Workflows & Scalable Cloud Applications</code>
+    <code>🟢 <b>SYSTEM STATUS:</b> Architecting Next-Gen Enterprise Workflows & Live IoT Power Management Solutions</code>
   </p>
 
 </div>
@@ -36,7 +36,7 @@ vamsi@enterprise-host:~$ whoami --verbose
 │  NAME      : Vamsi Meesala                                                              │
 │  ROLE      : Full Stack Developer & ServiceNow Enterprise Architect                      │
 │  CREDS     : Certified System Administrator (CSA) | Certified Application Dev (CAD)      │
-│  SPECIALTY : Enterprise Workflow Automation, Full-Stack Portals & Cloud Architecture     │
+│  SPECIALTY : Enterprise Workflow Automation, Full-Stack Portals & Live IoT Systems       │
 │  LOCATION  : Open to Global Remote & Enterprise Opportunities                           │
 └──────────────────────────────────────────────────────────────────────────────────────────┘
 
@@ -44,7 +44,7 @@ vamsi@enterprise-host:~$ cat philosophy.json
 {
   "mission": "Transforming complex business chaos into high-reliability automated systems.",
   "mindset": ["Clean Code", "High Automation", "Zero SLA Breach", "Sub-100ms UX"],
-  "currently_building": "AI-assisted clinical handoffs & automated ServiceNow ITSM solutions."
+  "currently_building": "Live Smart Inverter IoT telemetry & ServiceNow enterprise workflows."
 }
 ```
 
@@ -111,9 +111,23 @@ vamsi@enterprise-host:~$ cat philosophy.json
 
 ---
 
-### 🚀 Featured Code Repositories & Solutions
+### 🚀 Featured Code Repositories & Live Solutions
 
 <table width="100%">
+  <tr>
+    <td width="100%">
+      <img src="./assets/smart_inverters_preview.jpg" width="100%" alt="Smart Inverters Preview" style="border-radius:6px; margin-bottom:12px;" />
+      <h3>⚡ Smart Inverters For Enterprises — Live Running IoT System <img src="https://img.shields.io/badge/STATUS-LIVE%20RUNNING-14b8a6?style=flat-square" alt="Live Status"/></h3>
+      <p><b>Enterprise Power Management & IoT Telemetry Platform</b> monitoring smart inverter efficiency, battery health, solar generation feeds, and automated fault alert diagnostics in real time across enterprise installations.</p>
+      <ul>
+        <li><b>Key Feature:</b> Real-time IoT data stream aggregation, load balance visualization, and sub-second health alerts.</li>
+        <li><b>Tech Stack:</b> <code>TypeScript</code> · <code>Node.js</code> · <code>REST API</code> · <code>IoT Telemetry</code> · <code>Tailwind</code></li>
+      </ul>
+      <p>
+        <a href="https://github.com/meesalavamsi/Smart-Inverters-For-Enterprisers"><img src="https://img.shields.io/badge/Repository-Smart--Inverters--For--Enterprisers-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="Smart Inverters Repo"/></a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="100%">
       <img src="./assets/caresync_preview.jpg" width="100%" alt="CareSync Preview" style="border-radius:6px; margin-bottom:12px;" />
@@ -124,7 +138,7 @@ vamsi@enterprise-host:~$ cat philosophy.json
         <li><b>Tech Stack:</b> <code>TypeScript</code> · <code>React</code> · <code>ServiceNow Table API</code> · <code>Node.js</code> · <code>Tailwind</code></li>
       </ul>
       <p>
-        <a href="https://github.com/meesalavamsi/caresync-integrated"><img src="https://img.shields.io/badge/Repository-caresync--integrated-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="CareSync Repo"/></a>
+        <a href="https://github.com/meesalavamsi/caresync-integrated"><img src="https://img.shields.io/badge/Repository-caresync--integrated-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="CareSync Repo"/></a>
       </p>
     </td>
   </tr>
@@ -138,7 +152,7 @@ vamsi@enterprise-host:~$ cat philosophy.json
         <li><b>Tech Stack:</b> <code>ServiceNow App Engine</code> · <code>Node.js</code> · <code>Flow Designer</code> · <code>JavaScript</code> · <code>OAuth2</code></li>
       </ul>
       <p>
-        <a href="https://github.com/meesalavamsi/Enterprise-Workflow-Hub"><img src="https://img.shields.io/badge/Repository-Enterprise--Workflow--Hub-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Workflow Hub Repo"/></a>
+        <a href="https://github.com/meesalavamsi/Enterprise-Workflow-Hub"><img src="https://img.shields.io/badge/Repository-Enterprise--Workflow--Hub-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Workflow Hub Repo"/></a>
       </p>
     </td>
   </tr>
@@ -151,19 +165,7 @@ vamsi@enterprise-host:~$ cat philosophy.json
         <li><b>Tech Stack:</b> <code>ServiceNow ITSM</code> · <code>JavaScript</code> · <code>REST API</code> · <code>Business Rules</code></li>
       </ul>
       <p>
-        <a href="https://github.com/meesalavamsi/University_IT_Issue_Tracking_System_With_Service_Now"><img src="https://img.shields.io/badge/Repository-University__IT__Tracking-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="University IT Repo"/></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="100%">
-      <h3>⚡ Smart Inverters For Enterprises — IoT Monitoring System</h3>
-      <p><b>Enterprise Hardware & Power Systems Dashboard</b> monitoring smart inverters, real-time telemetry, load management, and energy health alerts across multi-site installations.</p>
-      <ul>
-        <li><b>Tech Stack:</b> <code>TypeScript</code> · <code>Node.js</code> · <code>REST API</code> · <code>IoT Telemetry</code></li>
-      </ul>
-      <p>
-        <a href="https://github.com/meesalavamsi/Smart-Inverters-For-Enterprisers"><img src="https://img.shields.io/badge/Repository-Smart--Inverters--For--Enterprisers-339933?style=for-the-badge&logo=github&logoColor=white" alt="Smart Inverters Repo"/></a>
+        <a href="https://github.com/meesalavamsi/University_IT_Issue_Tracking_System_With_Service_Now"><img src="https://img.shields.io/badge/Repository-University__IT__Tracking-339933?style=for-the-badge&logo=github&logoColor=white" alt="University IT Repo"/></a>
       </p>
     </td>
   </tr>
