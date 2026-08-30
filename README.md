@@ -111,21 +111,20 @@ vamsi@enterprise-host:~$ cat philosophy.json
 
 ---
 
-### 🚀 Featured Showcase Projects
+### 🚀 Featured Code Repositories & Solutions
 
 <table width="100%">
   <tr>
     <td width="100%">
       <img src="./assets/caresync_preview.jpg" width="100%" alt="CareSync Preview" style="border-radius:6px; margin-bottom:12px;" />
-      <h3>🩺 CareSync — Clinical & ServiceNow Operations Portal</h3>
-      <p><b>Healthcare Operations Hub</b> combining live patient vitals with automated ServiceNow incident workflows, AI-driven nurse shift handoffs, and real-time medication safety checks.</p>
+      <h3>🩺 CareSync Integrated — Healthcare & ServiceNow Operations Portal</h3>
+      <p><b>Clinical Operations Hub</b> combining live patient vitals with automated ServiceNow incident workflows, AI-driven nurse shift handoffs, and real-time medication safety checks.</p>
       <ul>
-        <li><b>Key Impact:</b> Automated ticket creation via ServiceNow Table API upon clinical alert triggers.</li>
-        <li><b>Tech Stack:</b> <code>React</code> · <code>Node.js</code> · <code>ServiceNow Table API</code> · <code>TypeScript</code> · <code>Tailwind</code></li>
+        <li><b>Key Feature:</b> Direct ServiceNow Table API integration triggering real-time incident tickets during critical clinical events.</li>
+        <li><b>Tech Stack:</b> <code>TypeScript</code> · <code>React</code> · <code>ServiceNow Table API</code> · <code>Node.js</code> · <code>Tailwind</code></li>
       </ul>
       <p>
-        <a href="https://github.com/meesalavamsi/caresync"><img src="https://img.shields.io/badge/Code-Repository-14b8a6?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://github.com/meesalavamsi/caresync"><img src="https://img.shields.io/badge/Live-Demo_Portal-00f0ff?style=flat-square&logo=vercel" alt="Demo"/></a>
+        <a href="https://github.com/meesalavamsi/caresync-integrated"><img src="https://img.shields.io/badge/Repository-caresync--integrated-14b8a6?style=for-the-badge&logo=github&logoColor=white" alt="CareSync Repo"/></a>
       </p>
     </td>
   </tr>
@@ -133,27 +132,62 @@ vamsi@enterprise-host:~$ cat philosophy.json
     <td width="100%">
       <img src="./assets/workflow_hub_preview.jpg" width="100%" alt="Enterprise Workflow Hub Preview" style="border-radius:6px; margin-bottom:12px;" />
       <h3>🏢 Enterprise Workflow Hub — Onboarding Automation Engine</h3>
-      <p><b>Multi-Stage Employee Onboarding Platform</b> integrated directly with ServiceNow PDI, featuring Flow Designer approval triggers, Okta/AD identity provisioning simulations, and granular RBAC control.</p>
+      <p><b>Multi-Stage Employee Onboarding Platform</b> built with ServiceNow App Engine and Node.js, featuring Flow Designer approval triggers, Okta identity provisioning simulations, and granular RBAC control.</p>
       <ul>
-        <li><b>Key Impact:</b> Reduced onboarding asset allocation turnaround time by 75% via automated Flow Designer actions.</li>
-        <li><b>Tech Stack:</b> <code>ServiceNow PDI</code> · <code>Flow Designer</code> · <code>React</code> · <code>Express</code> · <code>OAuth2</code></li>
+        <li><b>Key Feature:</b> Automated multi-stage approval flows reducing asset provisioning turnaround time by 75%.</li>
+        <li><b>Tech Stack:</b> <code>ServiceNow App Engine</code> · <code>Node.js</code> · <code>Flow Designer</code> · <code>JavaScript</code> · <code>OAuth2</code></li>
       </ul>
       <p>
-        <a href="https://github.com/meesalavamsi"><img src="https://img.shields.io/badge/Code-Repository-1f6feb?style=flat-square&logo=github" alt="Repo"/></a>
-        <a href="https://github.com/meesalavamsi"><img src="https://img.shields.io/badge/Live-Demo_Hub-0e75b6?style=flat-square&logo=netlify" alt="Demo"/></a>
+        <a href="https://github.com/meesalavamsi/Enterprise-Workflow-Hub"><img src="https://img.shields.io/badge/Repository-Enterprise--Workflow--Hub-0e75b6?style=for-the-badge&logo=github&logoColor=white" alt="Workflow Hub Repo"/></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="100%">
-      <h3>🎓 University IT Issue Tracker — Campus ITSM Suite</h3>
+      <h3>🎓 University IT Issue Tracking System — Campus ITSM Suite</h3>
       <p><b>Full-Stack Campus ITSM Solution</b> engineered for university helpdesks with automated SLA escalation timers, custom ServiceNow Business Rules, and real-time analytical dashboards.</p>
       <ul>
-        <li><b>Key Impact:</b> Handled campus incident lifecycle with zero SLA drop rate using server-side Script Includes.</li>
-        <li><b>Tech Stack:</b> <code>ServiceNow ITSM</code> · <code>JavaScript</code> · <code>REST API</code> · <code>Node.js</code> · <code>Chart.js</code></li>
+        <li><b>Key Feature:</b> Zero SLA drop rate for campus incident lifecycles using server-side Script Includes & custom rules.</li>
+        <li><b>Tech Stack:</b> <code>ServiceNow ITSM</code> · <code>JavaScript</code> · <code>REST API</code> · <code>Business Rules</code></li>
       </ul>
       <p>
-        <a href="https://github.com/meesalavamsi"><img src="https://img.shields.io/badge/Code-Repository-339933?style=flat-square&logo=github" alt="Repo"/></a>
+        <a href="https://github.com/meesalavamsi/University_IT_Issue_Tracking_System_With_Service_Now"><img src="https://img.shields.io/badge/Repository-University__IT__Tracking-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="University IT Repo"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>⚡ Smart Inverters For Enterprises — IoT Monitoring System</h3>
+      <p><b>Enterprise Hardware & Power Systems Dashboard</b> monitoring smart inverters, real-time telemetry, load management, and energy health alerts across multi-site installations.</p>
+      <ul>
+        <li><b>Tech Stack:</b> <code>TypeScript</code> · <code>Node.js</code> · <code>REST API</code> · <code>IoT Telemetry</code></li>
+      </ul>
+      <p>
+        <a href="https://github.com/meesalavamsi/Smart-Inverters-For-Enterprisers"><img src="https://img.shields.io/badge/Repository-Smart--Inverters--For--Enterprisers-339933?style=for-the-badge&logo=github&logoColor=white" alt="Smart Inverters Repo"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>🛡️ Cyber Security Smart IT Support — Interactive Cyber Platform</h3>
+      <p><b>Cyber Interrogation Hub</b> featuring interactive cybersecurity awareness modules, real-time quiz engine, time-based incident scenarios, and live user leaderboard.</p>
+      <ul>
+        <li><b>Tech Stack:</b> <code>JavaScript</code> · <code>HTML5</code> · <code>CSS3</code> · <code>LocalStorage Leaderboard</code></li>
+      </ul>
+      <p>
+        <a href="https://github.com/meesalavamsi/Cyber-Security-Smart-IT-Support"><img src="https://img.shields.io/badge/Repository-Cyber--Security--Smart--IT--Support-ea4335?style=for-the-badge&logo=github&logoColor=white" alt="Cyber Security Repo"/></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="100%">
+      <h3>👨‍💻 NILET Full Stack Development Associate</h3>
+      <p><b>Comprehensive Full-Stack Development Repository</b> covering modular web app components, front-end user interfaces, and back-end server architecture.</p>
+      <ul>
+        <li><b>Tech Stack:</b> <code>HTML5</code> · <code>CSS3</code> · <code>JavaScript</code> · <code>Node.js</code></li>
+      </ul>
+      <p>
+        <a href="https://github.com/meesalavamsi/NILET_F_S_D_ASSOCIATE"><img src="https://img.shields.io/badge/Repository-NILET__F__S__D__ASSOCIATE-7000FF?style=for-the-badge&logo=github&logoColor=white" alt="NILET Repo"/></a>
       </p>
     </td>
   </tr>
