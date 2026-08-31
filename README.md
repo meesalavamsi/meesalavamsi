@@ -1,11 +1,11 @@
 <div align="center">
 
-  <!-- HERO GRAPHIC BANNER -->
-  <img src="./assets/vamsi_hero_banner.jpg" width="100%" alt="Vamsi Meesala - Full Stack & ServiceNow Enterprise Architect" style="border-radius: 10px;" />
+  <!-- SUPREME MASTERPIECE HERO BANNER -->
+  <img src="./assets/vamsi_supreme_banner.jpg" width="100%" alt="Vamsi Meesala - Full Stack Engineer & ServiceNow CSA / CAD Certified Architect" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 240, 255, 0.2);" />
 
   <br/><br/>
 
-  <!-- DYNAMIC TYPING HEADER BANNER -->
+  <!-- DYNAMIC ANIMATED TYPING HEADER -->
   <a href="https://github.com/meesalavamsi">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=%E2%9A%A1+HI%2C+I'M+VAMSI+MEESALA;%F0%9F%92%A1+FULL+STACK+%26+SERVICENOW+ARCHITECT;%F0%9F%8F%86+SERVICENOW+CSA+%26+CAD+CERTIFIED;%F0%9F%9A%80+BUILDING+ENTERPRISE+WORKFLOW+SOLUTIONS" alt="Typing SVG Header" />
   </a>
@@ -21,7 +21,7 @@
   </p>
 
   <p align="center">
-    <code>🟢 <b>SYSTEM STATUS:</b> Architecting Next-Gen Enterprise Workflows & Live IoT Power Management Solutions</code>
+    <code>🟢 <b>SYSTEM STATUS:</b> Architecting Next-Gen Enterprise Workflows & Live IoT Power Systems | Available for High-Impact Roles</code>
   </p>
 
 </div>
@@ -32,19 +32,20 @@
 
 ```zsh
 vamsi@enterprise-host:~$ whoami --verbose
-┌──────────────────────────────────────────────────────────────────────────────────────────┐
-│  NAME      : Vamsi Meesala                                                              │
-│  ROLE      : Full Stack Developer & ServiceNow Enterprise Architect                      │
-│  CREDS     : Certified System Administrator (CSA) | Certified Application Dev (CAD)      │
-│  SPECIALTY : Enterprise Workflow Automation, Full-Stack Portals & Live IoT Systems       │
-│  LOCATION  : Open to Global Remote & Enterprise Opportunities                           │
-└──────────────────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────────────┐
+│  IDENTITY    : Vamsi Meesala 👋                                                              │
+│  ROLE        : Full Stack Developer & ServiceNow Enterprise Architect                       │
+│  CREDS       : ServiceNow CSA Certified | ServiceNow CAD Certified | AWS & DevOps Explorer  │
+│  DOMAINS     : Enterprise Workflow Automation, Healthcare Portals, IoT Power Analytics       │
+│  CORE STACK  : React · Node.js · TypeScript · ServiceNow Table API · Flow Designer · AWS   │
+│  STATUS      : 🟢 Open to Global Remote Opportunities & High-Impact Enterprise Projects       │
+└──────────────────────────────────────────────────────────────────────────────────────────────┘
 
 vamsi@enterprise-host:~$ cat philosophy.json
 {
-  "mission": "Transforming complex business chaos into high-reliability automated systems.",
-  "mindset": ["Clean Code", "High Automation", "Zero SLA Breach", "Sub-100ms UX"],
-  "currently_building": "Live Smart Inverter IoT telemetry & ServiceNow enterprise workflows."
+  "mission": "Transforming complex enterprise chaos into high-reliability automated systems.",
+  "architecture_mindset": ["Sub-100ms UX", "Clean Scalable Code", "Zero SLA Breach", "End-to-End Security"],
+  "currently_building": "Live Smart Inverter IoT Telemetry Engine & AI-assisted ServiceNow ITSM workflows."
 }
 ```
 
@@ -55,14 +56,14 @@ vamsi@enterprise-host:~$ cat philosophy.json
 <table width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/ServiceNow-CSA-14b8a6?style=for-the-badge&logo=servicenow&logoColor=white" height="38"/>
-      <h3>Certified System Administrator</h3>
-      <p>Mastery over ServiceNow Instance Configuration, Security Rules (ACLs), User Administration, CMDB Health, Flow Designer & Core ITSM Modules.</p>
+      <img src="https://img.shields.io/badge/ServiceNow-CSA-14b8a6?style=for-the-badge&logo=servicenow&logoColor=white" height="42"/>
+      <h3>Certified System Administrator (CSA)</h3>
+      <p>Expertise in Instance Configuration, Security Rules (ACLs), CMDB Health, Flow Designer Automations, User & Group Administration, and Core ITSM Suite Management.</p>
     </td>
     <td width="50%" align="center">
-      <img src="https://img.shields.io/badge/ServiceNow-CAD-0e75b6?style=for-the-badge&logo=servicenow&logoColor=white" height="38"/>
-      <h3>Certified Application Developer</h3>
-      <p>Expertise in Custom Scoped Applications, Script Includes, Business Rules, REST/SOAP Table API Integrations, Service Portal Widgets & Client Scripts.</p>
+      <img src="https://img.shields.io/badge/ServiceNow-CAD-0e75b6?style=for-the-badge&logo=servicenow&logoColor=white" height="42"/>
+      <h3>Certified Application Developer (CAD)</h3>
+      <p>Mastery of Custom Scoped Applications, Server-Side Script Includes, Business Rules, REST/SOAP Table API Integrations, Service Portal Widgets & Client Scripts.</p>
     </td>
   </tr>
 </table>
@@ -120,7 +121,7 @@ vamsi@enterprise-host:~$ cat philosophy.json
       <h3>⚡ Smart Inverters For Enterprises — Live Running IoT System <img src="https://img.shields.io/badge/STATUS-LIVE%20RUNNING-14b8a6?style=flat-square" alt="Live Status"/></h3>
       <p><b>Enterprise Power Management & IoT Telemetry Platform</b> monitoring smart inverter efficiency, battery health, solar generation feeds, and automated fault alert diagnostics in real time across enterprise installations.</p>
       <ul>
-        <li><b>Key Feature:</b> Real-time IoT data stream aggregation, load balance visualization, and sub-second health alerts.</li>
+        <li><b>Key Feature:</b> Real-time IoT telemetry data aggregation, load balance visualization, and sub-second health alerts.</li>
         <li><b>Tech Stack:</b> <code>TypeScript</code> · <code>Node.js</code> · <code>REST API</code> · <code>IoT Telemetry</code> · <code>Tailwind</code></li>
       </ul>
       <p>
@@ -197,6 +198,14 @@ vamsi@enterprise-host:~$ cat philosophy.json
 
 ---
 
+### 🏆 Achievements & GitHub Profile Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=meesalavamsi&theme=tokyonight&margin-w=15&row=1&column=6" alt="Vamsi's GitHub Trophies" />
+</div>
+
+<br/>
+
 ### 📊 GitHub Activity & Real-Time Stats
 
 <div align="center">
@@ -238,6 +247,6 @@ vamsi@enterprise-host:~$ cat philosophy.json
 
   <br/><br/>
   
-  <sub>Made with ❤️ & ⚡ by <b>Vamsi Meesala</b></sub>
+  <sub>Crafted with ⚡ and extreme passion by <b>Vamsi Meesala</b></sub>
 
 </div>
