@@ -10,7 +10,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=980&lines=%E2%9A%A1+HI%2C+I'M+VAMSI+MEESALA;%F0%9F%92%A1+FULL+STACK+%26+SERVICENOW+ENTERPRISE+ARCHITECT;%F0%9F%8F%86+SERVICENOW+CSA+%26+CAD+DOUBLE+CERTIFIED;%F0%9F%9A%80+CRAFTING+HIGH-RELIABILITY+WORKFLOW+ENGINES" alt="Typing SVG Header" />
   </a>
 
-  <br />
+  <br /><br />
 
   <!-- 🛡️ GLOWING BADGES MATRIX 🛡️ -->
   <p align="center">
@@ -110,63 +110,54 @@ vamsi@enterprise-host:~$ cat philosophy.json
 
   <h4 style="color:#00f0ff;">🎨 Frontend Engineering</h4>
   <br/>
-  ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  &nbsp;&nbsp;
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  &nbsp;&nbsp;
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  &nbsp;&nbsp;
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-  &nbsp;&nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  &nbsp;&nbsp;
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
   <h4 style="color:#00f0ff;">⚙️ Backend & API Architecture</h4>
   <br/>
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  &nbsp;&nbsp;
-  ![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-  &nbsp;&nbsp;
-  ![REST API](https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white)
-  &nbsp;&nbsp;
-  ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSockets" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
   <h4 style="color:#00f0ff;">🚀 ServiceNow Enterprise Platform</h4>
   <br/>
-  ![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=black)
-  &nbsp;&nbsp;
-  ![Flow Designer](https://img.shields.io/badge/Flow_Designer-00F0FF?style=for-the-badge&logo=workflow&logoColor=black)
-  &nbsp;&nbsp;
-  ![Table API](https://img.shields.io/badge/Table_API-14B8A6?style=for-the-badge&logo=postman&logoColor=white)
-  &nbsp;&nbsp;
-  ![Business Rules](https://img.shields.io/badge/Business_Rules-0E75B6?style=for-the-badge&logo=codeforces&logoColor=white)
-  &nbsp;&nbsp;
-  ![Script Includes](https://img.shields.io/badge/Script_Includes-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white)
+  <p align="center">
+    <img src="https://img.shields.io/badge/ServiceNow-81B5A1?style=for-the-badge&logo=servicenow&logoColor=black" alt="ServiceNow" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Flow_Designer-00F0FF?style=for-the-badge&logo=workflow&logoColor=black" alt="Flow Designer" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Table_API-14B8A6?style=for-the-badge&logo=postman&logoColor=white" alt="Table API" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Business_Rules-0E75B6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Business Rules" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Script_Includes-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white" alt="Script Includes" />
+  </p>
 
-  <br/><br/>
+  <br/>
 
   <h4 style="color:#00f0ff;">☁️ Cloud, DevOps & Tools</h4>
   <br/>
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  &nbsp;&nbsp;
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  &nbsp;&nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  &nbsp;&nbsp;
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-  &nbsp;&nbsp;
-  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-  &nbsp;&nbsp;
-  ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+  <p align="center">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  </p>
 
   <br/><br/><br/>
 
-  ![Skill Icons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,aws,docker,git,github,vscode,postman,figma&theme=dark)
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,aws,docker,git,github,vscode,postman,figma&theme=dark" alt="Skill Icons" />
 
 </div>
 
