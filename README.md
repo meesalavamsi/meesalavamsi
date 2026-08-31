@@ -1,18 +1,18 @@
 <div align="center">
 
-  <!-- SUPREME MASTERPIECE HERO BANNER -->
-  <img src="./assets/vamsi_supreme_banner.jpg" width="100%" alt="Vamsi Meesala - Full Stack Engineer & ServiceNow CSA / CAD Certified Architect" style="border-radius: 12px; box-shadow: 0 10px 30px rgba(0, 240, 255, 0.2);" />
+  <!-- 🌟 SUPREME AAA CYBER HUD BANNER 🌟 -->
+  <img src="./assets/vamsi_supreme_banner.jpg" width="100%" alt="Vamsi Meesala - Supreme Full Stack & ServiceNow Architect" style="border-radius: 14px; box-shadow: 0 12px 40px rgba(0, 240, 255, 0.3);" />
 
   <br/><br/>
 
-  <!-- DYNAMIC ANIMATED TYPING HEADER -->
+  <!-- ⚡ ANIMATED GLOWING TYPING HEADER ⚡ -->
   <a href="https://github.com/meesalavamsi">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=950&lines=%E2%9A%A1+HI%2C+I'M+VAMSI+MEESALA;%F0%9F%92%A1+FULL+STACK+%26+SERVICENOW+ARCHITECT;%F0%9F%8F%86+SERVICENOW+CSA+%26+CAD+CERTIFIED;%F0%9F%9A%80+BUILDING+ENTERPRISE+WORKFLOW+SOLUTIONS" alt="Typing SVG Header" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=34&duration=2500&pause=800&color=00F0FF&center=true&vCenter=true&width=980&lines=%E2%9A%A1+HI%2C+I'M+VAMSI+MEESALA;%F0%9F%92%A1+FULL+STACK+%26+SERVICENOW+ENTERPRISE+ARCHITECT;%F0%9F%8F%86+SERVICENOW+CSA+%26+CAD+DOUBLE+CERTIFIED;%F0%9F%9A%80+CRAFTING+HIGH-RELIABILITY+WORKFLOW+ENGINES" alt="Typing SVG Header" />
   </a>
 
   <br />
 
-  <!-- STATUS BADGES ROW -->
+  <!-- 🛡️ GLOWING BADGES MATRIX 🛡️ -->
   <p align="center">
     <a href="https://komarev.com/ghpvc/?username=meesalavamsi&label=PROFILE%20VIEWS&color=00f0ff&style=for-the-badge"><img src="https://komarev.com/ghpvc/?username=meesalavamsi&label=PROFILE%20VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views"/></a>
     <a href="https://github.com/meesalavamsi"><img src="https://img.shields.io/badge/ServiceNow-CSA%20Certified-14b8a6?style=for-the-badge&logo=servicenow&logoColor=white" alt="CSA Certified"/></a>
@@ -21,56 +21,56 @@
   </p>
 
   <p align="center">
-    <code>🟢 <b>SYSTEM STATUS:</b> Architecting Next-Gen Enterprise Workflows & Live IoT Power Systems | Available for High-Impact Roles</code>
+    <code>🟢 <b>SYSTEM STATUS:</b> Architecting High-Reliability Enterprise Workflows & Live IoT Power Management Systems</code>
   </p>
 
 </div>
 
 ---
 
-### ⚡ System Console // About Me
+### ⚡ System Console // Developer Matrix
 
 ```zsh
 vamsi@enterprise-host:~$ whoami --verbose
-┌──────────────────────────────────────────────────────────────────────────────────────────────┐
-│  IDENTITY    : Vamsi Meesala 👋                                                              │
-│  ROLE        : Full Stack Developer & ServiceNow Enterprise Architect                       │
-│  CREDS       : ServiceNow CSA Certified | ServiceNow CAD Certified | AWS & DevOps Explorer  │
-│  DOMAINS     : Enterprise Workflow Automation, Healthcare Portals, IoT Power Analytics       │
-│  CORE STACK  : React · Node.js · TypeScript · ServiceNow Table API · Flow Designer · AWS   │
-│  STATUS      : 🟢 Open to Global Remote Opportunities & High-Impact Enterprise Projects       │
-└──────────────────────────────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────────────────────────────────────┐
+│  IDENTITY     : Vamsi Meesala 👋                                                                      │
+│  ROLE         : Full Stack Developer & ServiceNow Enterprise Architect                                │
+│  CERTIFICATIONS: ServiceNow CSA (System Admin) | ServiceNow CAD (Application Dev)                     │
+│  SPECIALIZATIONS: Enterprise Workflow Automation · Healthcare Portals · IoT Power Analytics           │
+│  CORE STACK   : React · Node.js · TypeScript · ServiceNow Table API · Flow Designer · AWS · Docker  │
+│  STATUS       : 🟢 Available for Global Remote Opportunities & High-Impact Enterprise Architecture     │
+└───────────────────────────────────────────────────────────────────────────────────────────────────────┘
 
 vamsi@enterprise-host:~$ cat philosophy.json
 {
-  "mission": "Transforming complex enterprise chaos into high-reliability automated systems.",
-  "architecture_mindset": ["Sub-100ms UX", "Clean Scalable Code", "Zero SLA Breach", "End-to-End Security"],
-  "currently_building": "Live Smart Inverter IoT Telemetry Engine & AI-assisted ServiceNow ITSM workflows."
+  "mission": "Transforming complex enterprise chaos into sub-100ms automated systems.",
+  "architecture_pillars": ["Zero SLA Breach", "Sub-100ms UX", "Clean Scalable Code", "End-to-End Security"],
+  "currently_building": "Live Smart Inverter IoT Telemetry Engine & AI-Assisted ServiceNow Workflows."
 }
 ```
 
 ---
 
-### 🏆 ServiceNow Credentials & Specializations
+### 🏆 ServiceNow Master Credentials & Enterprise Vault
 
 <table width="100%">
   <tr>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="background: rgba(20, 184, 166, 0.05); border-radius: 10px;">
       <img src="https://img.shields.io/badge/ServiceNow-CSA-14b8a6?style=for-the-badge&logo=servicenow&logoColor=white" height="42"/>
-      <h3>Certified System Administrator (CSA)</h3>
-      <p>Expertise in Instance Configuration, Security Rules (ACLs), CMDB Health, Flow Designer Automations, User & Group Administration, and Core ITSM Suite Management.</p>
+      <h3 style="color:#00f0ff;">Certified System Administrator</h3>
+      <p>Mastery over Instance Configuration, Security Rules (ACLs), CMDB Health, Flow Designer Automations, User/Group Security Administration, and Core ITSM Suite Management.</p>
     </td>
-    <td width="50%" align="center">
+    <td width="50%" align="center" style="background: rgba(14, 117, 182, 0.05); border-radius: 10px;">
       <img src="https://img.shields.io/badge/ServiceNow-CAD-0e75b6?style=for-the-badge&logo=servicenow&logoColor=white" height="42"/>
-      <h3>Certified Application Developer (CAD)</h3>
-      <p>Mastery of Custom Scoped Applications, Server-Side Script Includes, Business Rules, REST/SOAP Table API Integrations, Service Portal Widgets & Client Scripts.</p>
+      <h3 style="color:#00f0ff;">Certified Application Developer</h3>
+      <p>Expertise in Custom Scoped Applications, Server-Side Script Includes, Business Rules, REST/SOAP Table API Integrations, Service Portal Custom Widgets & Client Scripts.</p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Tech Stack & Enterprise Arsenal
+### 🛠️ Tech Arsenal & Skill Matrix
 
 <div align="center">
 
@@ -81,6 +81,7 @@ vamsi@enterprise-host:~$ cat philosophy.json
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 
 #### ⚙️ Backend & API Architecture
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -94,6 +95,7 @@ vamsi@enterprise-host:~$ cat philosophy.json
 ![Table API](https://img.shields.io/badge/Table_API-14B8A6?style=for-the-badge&logo=postman&logoColor=white)
 ![Business Rules](https://img.shields.io/badge/Business_Rules-0E75B6?style=for-the-badge&logo=codeforces&logoColor=white)
 ![Script Includes](https://img.shields.io/badge/Script_Includes-1F6FEB?style=for-the-badge&logo=javascript&logoColor=white)
+![Service Portal](https://img.shields.io/badge/Service_Portal-0055DA?style=for-the-badge&logo=servicenow&logoColor=white)
 
 #### ☁️ Cloud, DevOps & Tools
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -106,22 +108,22 @@ vamsi@enterprise-host:~$ cat philosophy.json
 
 <br/>
 
-![Skill Icons](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,aws,docker,git,github,vscode,postman,figma&theme=dark)
+![Skill Icons](https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nodejs,express,aws,docker,git,github,vscode,postman,figma&theme=dark)
 
 </div>
 
 ---
 
-### 🚀 Featured Code Repositories & Live Solutions
+### 🚀 Masterwork Code Repositories & Live Solutions
 
 <table width="100%">
   <tr>
     <td width="100%">
-      <img src="./assets/smart_inverters_preview.jpg" width="100%" alt="Smart Inverters Preview" style="border-radius:6px; margin-bottom:12px;" />
-      <h3>⚡ Smart Inverters For Enterprises — Live Running IoT System <img src="https://img.shields.io/badge/STATUS-LIVE%20RUNNING-14b8a6?style=flat-square" alt="Live Status"/></h3>
-      <p><b>Enterprise Power Management & IoT Telemetry Platform</b> monitoring smart inverter efficiency, battery health, solar generation feeds, and automated fault alert diagnostics in real time across enterprise installations.</p>
+      <img src="./assets/smart_inverters_preview.jpg" width="100%" alt="Smart Inverters Preview" style="border-radius:8px; margin-bottom:12px; box-shadow: 0 4px 16px rgba(0, 240, 255, 0.15);" />
+      <h3>⚡ Smart Inverters For Enterprises — Live Running IoT Platform <img src="https://img.shields.io/badge/STATUS-LIVE%20RUNNING-14b8a6?style=flat-square" alt="Live Status"/></h3>
+      <p><b>Enterprise Power & Energy Management Platform</b> monitoring smart inverter telemetry, battery pack health, solar generation feeds, and sub-second fault alert diagnostics in real time across enterprise infrastructure.</p>
       <ul>
-        <li><b>Key Feature:</b> Real-time IoT telemetry data aggregation, load balance visualization, and sub-second health alerts.</li>
+        <li><b>Key Impact:</b> Real-time IoT data stream aggregation, load balance visualization, and automated alert dispatching.</li>
         <li><b>Tech Stack:</b> <code>TypeScript</code> · <code>Node.js</code> · <code>REST API</code> · <code>IoT Telemetry</code> · <code>Tailwind</code></li>
       </ul>
       <p>
@@ -131,11 +133,11 @@ vamsi@enterprise-host:~$ cat philosophy.json
   </tr>
   <tr>
     <td width="100%">
-      <img src="./assets/caresync_preview.jpg" width="100%" alt="CareSync Preview" style="border-radius:6px; margin-bottom:12px;" />
+      <img src="./assets/caresync_preview.jpg" width="100%" alt="CareSync Preview" style="border-radius:8px; margin-bottom:12px; box-shadow: 0 4px 16px rgba(0, 240, 255, 0.15);" />
       <h3>🩺 CareSync Integrated — Healthcare & ServiceNow Operations Portal</h3>
       <p><b>Clinical Operations Hub</b> combining live patient vitals with automated ServiceNow incident workflows, AI-driven nurse shift handoffs, and real-time medication safety checks.</p>
       <ul>
-        <li><b>Key Feature:</b> Direct ServiceNow Table API integration triggering real-time incident tickets during critical clinical events.</li>
+        <li><b>Key Impact:</b> Direct ServiceNow Table API integration triggering real-time incident tickets during critical clinical events.</li>
         <li><b>Tech Stack:</b> <code>TypeScript</code> · <code>React</code> · <code>ServiceNow Table API</code> · <code>Node.js</code> · <code>Tailwind</code></li>
       </ul>
       <p>
@@ -145,11 +147,11 @@ vamsi@enterprise-host:~$ cat philosophy.json
   </tr>
   <tr>
     <td width="100%">
-      <img src="./assets/workflow_hub_preview.jpg" width="100%" alt="Enterprise Workflow Hub Preview" style="border-radius:6px; margin-bottom:12px;" />
+      <img src="./assets/workflow_hub_preview.jpg" width="100%" alt="Enterprise Workflow Hub Preview" style="border-radius:8px; margin-bottom:12px; box-shadow: 0 4px 16px rgba(0, 240, 255, 0.15);" />
       <h3>🏢 Enterprise Workflow Hub — Onboarding Automation Engine</h3>
       <p><b>Multi-Stage Employee Onboarding Platform</b> built with ServiceNow App Engine and Node.js, featuring Flow Designer approval triggers, Okta identity provisioning simulations, and granular RBAC control.</p>
       <ul>
-        <li><b>Key Feature:</b> Automated multi-stage approval flows reducing asset provisioning turnaround time by 75%.</li>
+        <li><b>Key Impact:</b> Automated multi-stage approval flows reducing asset provisioning turnaround time by 75%.</li>
         <li><b>Tech Stack:</b> <code>ServiceNow App Engine</code> · <code>Node.js</code> · <code>Flow Designer</code> · <code>JavaScript</code> · <code>OAuth2</code></li>
       </ul>
       <p>
@@ -162,7 +164,7 @@ vamsi@enterprise-host:~$ cat philosophy.json
       <h3>🎓 University IT Issue Tracking System — Campus ITSM Suite</h3>
       <p><b>Full-Stack Campus ITSM Solution</b> engineered for university helpdesks with automated SLA escalation timers, custom ServiceNow Business Rules, and real-time analytical dashboards.</p>
       <ul>
-        <li><b>Key Feature:</b> Zero SLA drop rate for campus incident lifecycles using server-side Script Includes & custom rules.</li>
+        <li><b>Key Impact:</b> Zero SLA drop rate for campus incident lifecycles using server-side Script Includes & custom rules.</li>
         <li><b>Tech Stack:</b> <code>ServiceNow ITSM</code> · <code>JavaScript</code> · <code>REST API</code> · <code>Business Rules</code></li>
       </ul>
       <p>
@@ -227,6 +229,18 @@ vamsi@enterprise-host:~$ cat philosophy.json
 
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meesalavamsi&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Vamsi's Activity Graph" />
+</div>
+
+---
+
+### 💡 Daily Engineering Philosophy
+
+> *"Simplicity is a prerequisite for reliability. Building enterprise systems isn't just about writing code—it's about eliminating friction and engineering zero-downtime automation."*
+
 ---
 
 ### 🤝 Let's Connect & Build Superb Systems!
@@ -247,6 +261,6 @@ vamsi@enterprise-host:~$ cat philosophy.json
 
   <br/><br/>
   
-  <sub>Crafted with ⚡ and extreme passion by <b>Vamsi Meesala</b></sub>
+  <sub>Crafted with ⚡ and unmatched passion by <b>Vamsi Meesala</b></sub>
 
 </div>
