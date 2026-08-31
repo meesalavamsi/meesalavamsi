@@ -321,27 +321,10 @@ vamsi@enterprise-host:~$ cat philosophy.json
 
 <div align="center">
 
-  <table border="0" cellpadding="10">
-    <tr>
-      <td>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=meesalavamsi&show_icons=true&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=14b8a6&text_color=94a3b8&bg_color=0f172a" alt="Vamsi's GitHub Stats" />
-      </td>
-      <td>
-        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=meesalavamsi&theme=tokyonight&hide_border=true&background=0F172A&ring=00F0FF&fire=14B8A6&currStreakLabel=00F0FF" alt="Vamsi's GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=meesalavamsi&theme=tokyonight&hide_border=true&background=0F172A&ring=00F0FF&fire=14B8A6&currStreakLabel=00F0FF" alt="Vamsi's GitHub Streak" />
+  </p>
 
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=meesalavamsi&layout=compact&theme=tokyonight&hide_border=true&title_color=00f0ff&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
-
-</div>
-
-<br/><br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meesalavamsi&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Vamsi's Activity Graph" />
 </div>
 
 <br/><br/>
